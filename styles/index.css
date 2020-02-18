@@ -17,7 +17,11 @@
     background-color: #eeccff;  
     opacity: 0.7;
     border-radius: 2em;
-    padding: 10px;
+    padding: 10px; 
+}
+
+.myNav a {
+    margin-left: 10px; 
 }
 
 .fontSize {
